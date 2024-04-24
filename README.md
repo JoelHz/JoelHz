@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoelHz
 - 👀 I’m interested in sports and programming
-- 🌱 I’m currently practicing python, java, impala, hive, hue, django, html 
+- 🌱 I’m able to create proyects/apps in  python, java, impala, hive, hue, django, html, SPARK, FLINK, Yarn, Git, Applescript, Swift and many more
 - 💞️ I’m looking to collaborate on any challenge
 - 📫 How to reach me joseeum@gmail.com
 
